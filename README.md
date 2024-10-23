@@ -1,1 +1,1 @@
-Task 2: BMI Calculator
+Oasis Infobyte Task 2: BMI Calculator 
